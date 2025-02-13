@@ -3,9 +3,10 @@ This repo is planned to contain files printing "Hello World!" in alot of languag
 
 ## Done :
 - Python
+- JavaScript
+- JSFuck
 
 ## To do (non exhaustive) :
-- Java Script
 - Assembly
 - Java
 - C
